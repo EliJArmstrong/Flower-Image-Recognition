@@ -262,3 +262,27 @@ Number of predicted roses: 1
 Number of predicted sunflowers: 0
 Number of predicted tulips: 0
 
+
+
+Mon Apr 27 22:32:13 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Mon Apr 27 22:32:46 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
