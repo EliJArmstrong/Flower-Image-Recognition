@@ -1,0 +1,264 @@
+
+
+Sat Jan 11 12:38:35 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:42:13 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:43:06 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:49:59 2020
+
+Session Data 
+Number of predictions: 6
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 6
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:51:42 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:52:28 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 12:58:40 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 13:00:21 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 13:01:23 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 13:02:30 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 13:08:17 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Jan 11 14:50:26 2020
+
+Session Data 
+Number of predictions: 4
+Number of predicted daisies: 1
+Number of predicted dandelions: 2
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sun Jan 12 23:38:39 2020
+
+Session Data 
+Number of predictions: 3
+Number of predicted daisies: 1
+Number of predicted dandelions: 0
+Number of predicted roses: 2
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sun Jan 12 23:41:27 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sun Jan 12 23:42:09 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 1
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Mon Jan 13 14:05:49 2020
+
+Session Data 
+Number of predictions: 2
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 1
+
+
+
+Mon Jan 20 17:53:32 2020
+
+Session Data 
+Number of predictions: 2
+Number of predicted daisies: 0
+Number of predicted dandelions: 1
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Fri Feb  7 22:30:01 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Feb  8 12:40:48 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Feb  8 12:46:34 2020
+
+Session Data 
+Number of predictions: 0
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 0
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
+
+
+Sat Feb  8 14:02:01 2020
+
+Session Data 
+Number of predictions: 3
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 2
+Number of predicted sunflowers: 1
+Number of predicted tulips: 0
+
+
+
+Mon Apr 27 21:09:07 2020
+
+Session Data 
+Number of predictions: 1
+Number of predicted daisies: 0
+Number of predicted dandelions: 0
+Number of predicted roses: 1
+Number of predicted sunflowers: 0
+Number of predicted tulips: 0
+
